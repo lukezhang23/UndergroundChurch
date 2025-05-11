@@ -12,6 +12,7 @@ the following form: YYYY.0M.0D.
 
 - Teams to database schema
 - Description of database schema ([`database_schema.md`](backend/database_schema.md))
+- Table of Contents in ([`README.md`](README.md))
 
 ## 2025.5.06
 
